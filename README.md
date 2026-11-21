@@ -145,4 +145,5 @@ Adapte les numéros de pages à la table des matières du manuel.
     └── agent.py           Agent LangChain + outils
 ```
 #   p a r t i 1 _ A g e n t i c P r o j e c t  
+ #   p a r t i 1 _ A g e n t i c P r o j e c t  
  
